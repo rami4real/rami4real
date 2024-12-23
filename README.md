@@ -7,7 +7,6 @@
   - 💼 [LinkedIn](https://linkedin.com/in/ahmedramibelguith)  
   - 🐦 Twitter: [@rami4real](https://twitter.com/rami4real)  
 
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’ve participated in both tech challenges and humanitarian efforts, blending a passion for innovation with a heart for making a difference!  
 
 Feel free to explore my repositories and reach out if you're interested in collaborating!
