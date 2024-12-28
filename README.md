@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rami4real, but you can call me Rami!  
+- 👋 Hi, I’m Ahmed Rami Belghuith, but you can call me Rami!  
 - 👀 I’m interested in **Data Engineering**, **AI Development**, and **Data Science Projects**.  
 - 🌱 I’m currently learning **Generative AI**, **LLMOps**, and exploring advanced concepts in **Data Science**.  
 - 💞️ I’m looking to collaborate on **AI-powered tools**, **data-driven projects**, and **open-source contributions** related to **machine learning**, **big data**, or **DevOps automation**.  
